@@ -79,8 +79,8 @@ func ingestNormal(t *testing.T, lbls [][]mimirpb.LabelAdapter, ingester *Ingeste
 				}
 			}(currTime)
 		}
+		wg.Wait()
 	}
-	wg.Wait()
 	fmt.Println("ingestion completed")
 }
 
@@ -137,8 +137,8 @@ func ingestZipf(t *testing.T, lbls [][]mimirpb.LabelAdapter, ingester *Ingester,
 				}
 			}(currTime)
 		}
+		wg.Wait()
 	}
-	wg.Wait()
 	fmt.Println("ingestion completed")
 
 }
