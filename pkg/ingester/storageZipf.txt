@@ -1,0 +1,198 @@
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 1000 3.832205647 1.1272881462877298e+07
+--- PASS: TestWriteZipfThroughPut (5.00s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 1000 3.740785422 1.1548376911954293e+07
+--- PASS: TestWriteZipfThroughPut (5.00s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 1000 3.882942061 1.1125584497872835e+07
+--- PASS: TestWriteZipfThroughPut (5.00s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 1000 3.913322441 1.103921300923028e+07
+--- PASS: TestWriteZipfThroughPut (5.00s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 1000 3.842594847 1.1242403042758258e+07
+--- PASS: TestWriteZipfThroughPut (5.00s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	25.059s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 10000 16.005527979 2.6990674757296614e+07
+--- PASS: TestWriteZipfThroughPut (18.00s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 10000 14.923866072 2.894692286273688e+07
+--- PASS: TestWriteZipfThroughPut (16.01s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 10000 15.203917394 2.841372975168113e+07
+--- PASS: TestWriteZipfThroughPut (17.01s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 10000 15.348561273 2.8145960544193868e+07
+--- PASS: TestWriteZipfThroughPut (17.01s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 10000 15.512849351 2.7847882115360845e+07
+--- PASS: TestWriteZipfThroughPut (17.01s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	85.076s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 25000 43.751406771 2.4684920547877394e+07
+--- PASS: TestWriteZipfThroughPut (45.01s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 25000 43.654832052 2.4739529377035387e+07
+--- PASS: TestWriteZipfThroughPut (45.02s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 25000 43.451317689 2.4855402722882427e+07
+--- PASS: TestWriteZipfThroughPut (45.02s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 25000 43.88571029 2.4609377240638938e+07
+--- PASS: TestWriteZipfThroughPut (45.01s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 25000 43.75093393 2.4685187331725605e+07
+--- PASS: TestWriteZipfThroughPut (45.02s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	225.129s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 50000 91.644348677 2.3569374775229275e+07
+--- PASS: TestWriteZipfThroughPut (93.06s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 50000 92.591493261 2.332827697152826e+07
+--- PASS: TestWriteZipfThroughPut (94.04s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 50000 92.692699256 2.33028061253722e+07
+--- PASS: TestWriteZipfThroughPut (94.05s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 50000 92.776853413 2.3281669085980646e+07
+--- PASS: TestWriteZipfThroughPut (94.04s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 50000 92.925148449 2.3244514924670473e+07
+--- PASS: TestWriteZipfThroughPut (94.04s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	469.291s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 75000 132.466629883 2.445899018388029e+07
+--- PASS: TestWriteZipfThroughPut (134.09s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 75000 135.237779181 2.3957802469261475e+07
+--- PASS: TestWriteZipfThroughPut (137.10s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 75000 134.638242381 2.4064485265868455e+07
+--- PASS: TestWriteZipfThroughPut (136.09s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 75000 134.712134864 2.4051285381758478e+07
+--- PASS: TestWriteZipfThroughPut (136.11s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 75000 134.460883829 2.4096227153470557e+07
+--- PASS: TestWriteZipfThroughPut (136.09s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	679.533s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 100000 173.728518243 2.4866383733023435e+07
+--- PASS: TestWriteZipfThroughPut (175.12s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 100000 175.483756896 2.461766306131819e+07
+--- PASS: TestWriteZipfThroughPut (177.17s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 100000 176.919550946 2.4417877938874975e+07
+--- PASS: TestWriteZipfThroughPut (178.13s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 100000 176.150755 2.4524447823116057e+07
+--- PASS: TestWriteZipfThroughPut (178.18s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 100000 176.038628433 2.4540068497773968e+07
+--- PASS: TestWriteZipfThroughPut (177.12s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	885.776s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 150000 245.146670143 2.643315528707797e+07
+--- PASS: TestWriteZipfThroughPut (246.33s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 150000 248.458704911 2.6080792791386362e+07
+--- PASS: TestWriteZipfThroughPut (250.31s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 150000 249.332847206 2.5989355484502982e+07
+--- PASS: TestWriteZipfThroughPut (251.36s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 150000 248.485412388 2.6077989599975955e+07
+--- PASS: TestWriteZipfThroughPut (250.38s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 150000 247.935185097 2.613586287668215e+07
+--- PASS: TestWriteZipfThroughPut (249.38s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	1247.812s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 200000 321.758491431 2.6852438179872617e+07
+--- PASS: TestWriteZipfThroughPut (323.59s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 200000 322.495802057 2.6791046410188343e+07
+--- PASS: TestWriteZipfThroughPut (323.60s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 200000 325.14807673 2.6572508399533227e+07
+--- PASS: TestWriteZipfThroughPut (326.56s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 200000 322.427399136 2.6796730126386203e+07
+--- PASS: TestWriteZipfThroughPut (323.54s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 200000 322.393977347 2.679950807735025e+07
+--- PASS: TestWriteZipfThroughPut (323.61s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	1620.963s
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 500000 774.256690714 2.7897724693965543e+07
+--- PASS: TestWriteZipfThroughPut (775.66s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 500000 774.710359935 2.7881387828365028e+07
+--- PASS: TestWriteZipfThroughPut (776.64s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 500000 769.475297654 2.8071076571079988e+07
+--- PASS: TestWriteZipfThroughPut (771.48s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 500000 774.055788224 2.7904965415424667e+07
+--- PASS: TestWriteZipfThroughPut (775.75s)
+=== RUN   TestWriteZipfThroughPut
+ingestion completed
+    writethroughput_test.go:108: 500000 770.339661144 2.8039579278474018e+07
+--- PASS: TestWriteZipfThroughPut (771.88s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	3871.525s
