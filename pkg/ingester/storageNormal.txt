@@ -1,0 +1,198 @@
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 1000 3.746098371 1.1531998287719285e+07
+--- PASS: TestWriteNormalThroughPut (5.00s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 1000 3.623491696 1.1922202015169183e+07
+--- PASS: TestWriteNormalThroughPut (5.00s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 1000 3.6294332000000002 1.1902684970204161e+07
+--- PASS: TestWriteNormalThroughPut (5.00s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 1000 3.765465251 1.1472685875544148e+07
+--- PASS: TestWriteNormalThroughPut (5.00s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 1000 3.763047884 1.1480055883338846e+07
+--- PASS: TestWriteNormalThroughPut (5.00s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	25.055s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 10000 15.609942074 2.7674670280778393e+07
+--- PASS: TestWriteNormalThroughPut (17.01s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 10000 14.62332357 2.9541847852307353e+07
+--- PASS: TestWriteNormalThroughPut (16.01s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 10000 15.074730009 2.8657229664616544e+07
+--- PASS: TestWriteNormalThroughPut (17.01s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 10000 15.174157443 2.8469455495157406e+07
+--- PASS: TestWriteNormalThroughPut (17.01s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 10000 15.423959824 2.8008371710603073e+07
+--- PASS: TestWriteNormalThroughPut (17.01s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	84.077s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 25000 43.830089394 2.4640606828144953e+07
+--- PASS: TestWriteNormalThroughPut (45.02s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 25000 43.234116989 2.4980271952235848e+07
+--- PASS: TestWriteNormalThroughPut (45.01s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 25000 43.154420164 2.502640507961107e+07
+--- PASS: TestWriteNormalThroughPut (45.02s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 25000 43.398272755 2.4885783037887633e+07
+--- PASS: TestWriteNormalThroughPut (45.02s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 25000 43.385317983 2.4893213884549253e+07
+--- PASS: TestWriteNormalThroughPut (45.02s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	225.133s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 50000 91.14225056 2.369921728647733e+07
+--- PASS: TestWriteNormalThroughPut (93.05s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 50000 92.949479388 2.3238430319587793e+07
+--- PASS: TestWriteNormalThroughPut (94.04s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 50000 92.718797372 2.3296246944767803e+07
+--- PASS: TestWriteNormalThroughPut (94.04s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 50000 93.009856126 2.322334524497983e+07
+--- PASS: TestWriteNormalThroughPut (94.04s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 50000 92.732365002 2.329283848150982e+07
+--- PASS: TestWriteNormalThroughPut (94.05s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	469.279s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 75000 132.709111791 2.441429948760857e+07
+--- PASS: TestWriteNormalThroughPut (134.09s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 75000 135.14458951 2.3974322699468903e+07
+--- PASS: TestWriteNormalThroughPut (137.10s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 75000 135.748703038 2.386763134740985e+07
+--- PASS: TestWriteNormalThroughPut (137.09s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 75000 135.072037362 2.39872001879755e+07
+--- PASS: TestWriteNormalThroughPut (137.09s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 75000 135.7418544 2.3868835550547775e+07
+--- PASS: TestWriteNormalThroughPut (137.10s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	682.514s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 100000 172.195719693 2.5087731609716743e+07
+--- PASS: TestWriteNormalThroughPut (174.16s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 100000 173.331151967 2.492339057910647e+07
+--- PASS: TestWriteNormalThroughPut (175.14s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 100000 174.273699103 2.478859416099715e+07
+--- PASS: TestWriteNormalThroughPut (176.13s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 100000 173.7908891 2.4857459573236052e+07
+--- PASS: TestWriteNormalThroughPut (175.13s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 100000 173.891034938 2.484314387766037e+07
+--- PASS: TestWriteNormalThroughPut (175.17s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	875.795s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 150000 246.008733864 2.6340528233368788e+07
+--- PASS: TestWriteNormalThroughPut (247.35s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 150000 249.157088202 2.6007688750746865e+07
+--- PASS: TestWriteNormalThroughPut (250.35s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 150000 248.397688212 2.608719930786761e+07
+--- PASS: TestWriteNormalThroughPut (250.34s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 150000 248.802505518 2.604475379582218e+07
+--- PASS: TestWriteNormalThroughPut (250.33s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 150000 248.430241161 2.6083780983010482e+07
+--- PASS: TestWriteNormalThroughPut (250.37s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	1248.794s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 200000 318.816102789 2.7100262265354127e+07
+--- PASS: TestWriteNormalThroughPut (320.66s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 200000 323.00170954 2.6749084431486692e+07
+--- PASS: TestWriteNormalThroughPut (324.52s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 200000 321.526344035 2.6871826089185044e+07
+--- PASS: TestWriteNormalThroughPut (323.44s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 200000 324.074391513 2.666054531387869e+07
+--- PASS: TestWriteNormalThroughPut (325.57s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 200000 321.57828974 2.6867485385862168e+07
+--- PASS: TestWriteNormalThroughPut (323.57s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	1617.810s
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 500000 769.658515725 2.806439421988765e+07
+--- PASS: TestWriteNormalThroughPut (771.69s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 500000 771.888940265 2.7983300282271728e+07
+--- PASS: TestWriteNormalThroughPut (773.88s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 500000 771.670734862 2.79912131226057e+07
+--- PASS: TestWriteNormalThroughPut (773.81s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 500000 773.294639452 2.79324320873438e+07
+--- PASS: TestWriteNormalThroughPut (774.57s)
+=== RUN   TestWriteNormalThroughPut
+ingestion completed
+    writethroughput_test.go:54: 500000 767.385687961 2.8147514788023714e+07
+--- PASS: TestWriteNormalThroughPut (769.42s)
+PASS
+ok  	github.com/grafana/mimir/pkg/ingester	3863.418s
